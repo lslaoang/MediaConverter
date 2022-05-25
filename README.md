@@ -1,2 +1,3 @@
 # MediaConverter
-Converts video file to different video file format
+Converts video file to different video file format.
+Input: Video File
